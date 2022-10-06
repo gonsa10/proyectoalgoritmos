@@ -57,7 +57,7 @@ public class Almacen extends javax.swing.JFrame {
 
         jLabel3.setText("Código");
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Elegir producto", "Bebidas", "Cereales", "Frutas y Verduras", "Conservas", "Lacteos", "Limpieza", "Dulces" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Elegir Area", "Bebidas", "Cereales", "Frutas y Verduras", "Conservas", "Lacteos", "Limpieza", "Dulces" }));
 
         jLabel4.setText("Cantidad");
 
